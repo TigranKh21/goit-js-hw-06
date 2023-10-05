@@ -1,5 +1,5 @@
-const listItemsEl = document.querySelectorAll('.item')
-console.log(`Number of categories: ${listItemsEl.lengthl}`);
+const listItemsEl = document.querySelectorAll('.item');
+console.log(`Number of categories: ${listItemsEl.length}`);
 
 listItemsEl.forEach(
     (listItem)=>
