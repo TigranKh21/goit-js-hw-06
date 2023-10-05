@@ -1,2 +1,2 @@
-const ulItemsEl = document.querySelectorAll('li')
-console.log(ulItemsEl);
+const ulItemsEl = document.querySelectorAll('.item')
+console.log(ulItemsEl.classList);
